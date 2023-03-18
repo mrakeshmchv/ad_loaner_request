@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="item_type" table="x_cdltd_loaner_req_loaner_request" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>item_type</element>
+            <name>x_cdltd_loaner_req_loaner_request</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-16 16:47:53</sys_created_on>
+            <sys_id>639cd4b215e1a5107f441e2954ce5446</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>item_type</sys_name>
+            <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">a4188db915a9a1107f441e2954ce548c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Request">a4188db915a9a1107f441e2954ce548c</sys_scope>
+            <sys_update_name>sys_choice_x_cdltd_loaner_req_loaner_request_item_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-16 16:47:53</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>item_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Monitor</label>
+            <language>en</language>
+            <name>x_cdltd_loaner_req_loaner_request</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-16 16:47:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eb9cd4b215e1a5107f441e2954ce5445</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-16 16:47:53</sys_updated_on>
+            <value>cmdb_ci_display_hardware</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>item_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Large Format Plotter</label>
+            <language>en</language>
+            <name>x_cdltd_loaner_req_loaner_request</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-16 16:47:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>af9cd4b215e1a5107f441e2954ce5448</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-16 16:47:53</sys_updated_on>
+            <value>cmdb_ci_plotter</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>item_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Laptop</label>
+            <language>en</language>
+            <name>x_cdltd_loaner_req_loaner_request</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-16 16:47:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2b9cd4b215e1a5107f441e2954ce5457</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-16 16:47:53</sys_updated_on>
+            <value>cmdb_ci_computer</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
